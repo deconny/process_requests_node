@@ -1,1 +1,1 @@
-# process_requests_node
+#用于ROS2 foxy版本的多request处理的程序，支持多种不同类型的request发送以及对应response处理
